@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/baseball_background.png);
+}
+.backgroundStyle {
+    background: darkblue;
+}
+
+#pageTitle{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 130px;
+    text-align: center;
+    color: white;
+    text-shadow: -3px 0 red, 0 3px red, 3px 0 red, 0 -3px red;
+}
+
+#middlebox{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 300px;
+}
+
+.fonts {
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.guessesLeft{
+    text-align: center;
+}
